@@ -1603,7 +1603,14 @@ Project
   text-decoration: none;
   cursor: pointer;
 }
-
+.c-errorpage__wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+}
+.c-errorpage__wrapper .c-errorpage__img{
+    text-align: center;
+}
 /*==============================================================
 Utity
 ==============================================================*/
